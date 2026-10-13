@@ -1,0 +1,706 @@
+{
+  "category": "Reptile survival tricks",
+  "sources": [
+    {
+      "pageid": 6821172,
+      "name": "Leopard gecko",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eublepharis_macularius_02.JPG",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Eublepharis_macularius_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Eublepharis_macularius_02.JPG/1920px-Eublepharis_macularius_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "HTO",
+      "license": "Public domain",
+      "license_url": "",
+      "camera_metadata": {
+        "Make": "Canon",
+        "Model": "Canon PowerShot S3 IS",
+        "Orientation": 1,
+        "XResolution": "180/1",
+        "YResolution": "180/1",
+        "ResolutionUnit": 2,
+        "DateTime": "2009:04:12 14:49:07",
+        "YCbCrPositioning": 1,
+        "ExposureTime": "1/13",
+        "FNumber": "35/10",
+        "ExifVersion": "0220",
+        "DateTimeOriginal": "2009:04:12 14:49:07",
+        "DateTimeDigitized": "2009:04:12 14:49:07",
+        "CompressedBitsPerPixel": "3/1",
+        "ShutterSpeedValue": "118/32",
+        "ApertureValue": "116/32",
+        "ExposureBiasValue": "0/3",
+        "MaxApertureValue": "116/32",
+        "MeteringMode": 5,
+        "Flash": 80,
+        "FocalLength": "13500/1000",
+        "ColorSpace": 1,
+        "FocalPlaneXResolution": "2816000/225",
+        "FocalPlaneYResolution": "2112000/169",
+        "FocalPlaneResolutionUnit": 2,
+        "SensingMethod": 2,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": "2816/2816",
+        "SceneCaptureType": 0,
+        "MEDIAWIKI_EXIF_VERSION": 1
+      },
+      "source_file_history": [
+        {
+          "timestamp": "2009-05-19T21:57:08Z",
+          "size": 1821220,
+          "width": 2816,
+          "height": 2112,
+          "comment": "{{Information\n|Description={{en|1=An adult male of the Leopard gecko}}\n|Source=own photo\n|Author=HTO\n|Date=2009-04\n|Permission=\n|other_versions=\n}}\n\n<!--{{ImageUpload|full}}-->\n[[Category:Eublepharis macularius]]",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Eublepharis_macularius_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eublepharis_macularius_02.JPG",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6821172"
+        }
+      ],
+      "source_file_sha256": "9df126111e075207162148109bde50e8a2004476fc4fc380077b0417b4539bc0",
+      "sentence": "Leopard gecko tails store fat reserves.",
+      "fact_source": {
+        "title": "RSPCA: Leopard gecko",
+        "url": "https://www.rspca.org.uk/adviceandwelfare/pets/other/leopardgecko"
+      }
+    },
+    {
+      "pageid": 8686833,
+      "name": "Veiled chameleon",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chamaeleo-calyptratus-086.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Chamaeleo-calyptratus-086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Chamaeleo-calyptratus-086.jpg/1920px-Chamaeleo-calyptratus-086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Danny S.",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "camera_metadata": {
+        "ImageDescription": "SANYO DIGITAL CAMERA",
+        "Make": "SANYO Electric Co.,Ltd.",
+        "Model": "S50 ",
+        "Orientation": 1,
+        "XResolution": "72/1",
+        "YResolution": "72/1",
+        "ResolutionUnit": 2,
+        "Software": "ver1.0.0",
+        "DateTime": "2009:12:03 14:15:45",
+        "YCbCrPositioning": 2,
+        "ExposureTime": "10/474",
+        "FNumber": "87/10",
+        "ExposureProgram": 2,
+        "ISOSpeedRatings": 100,
+        "ExifVersion": "0220",
+        "DateTimeOriginal": "2009:12:03 14:15:45",
+        "DateTimeDigitized": "2009:12:03 14:15:45",
+        "CompressedBitsPerPixel": "2/1",
+        "ExposureBiasValue": "0/10",
+        "MaxApertureValue": "36/10",
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 25,
+        "FocalLength": "93/10",
+        "ColorSpace": 1,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": "0/100",
+        "FocalLengthIn35mmFilm": 57,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 2,
+        "MEDIAWIKI_EXIF_VERSION": 1
+      },
+      "source_file_history": [
+        {
+          "timestamp": "2009-12-06T19:24:27Z",
+          "size": 1080214,
+          "width": 2560,
+          "height": 1920,
+          "comment": "{{Information\n|Description={{en|1=''Chamaeleo calyptratus''}}\n{{de|1=Jemenchamäleon, ''Chamaeleo calyptratus''}}\n|Source={{own}}\n|Author=[[User:Bartiebert|Danny S.]]\n|Date=3.12.2009\n|Permission=\n|other_versions=\n}}\n\n[[Category:Chamaeleo calyptratus]]",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Chamaeleo-calyptratus-086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chamaeleo-calyptratus-086.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8686833"
+        }
+      ],
+      "source_file_sha256": "1b54bcbe136b32d2c96f0cc76617b89fc351a1d8d5f0c32ca0fac8c9d044a11f",
+      "sentence": "Veiled chameleons can move each eye separately.",
+      "fact_source": {
+        "title": "San Diego Zoo: Chameleon",
+        "url": "https://animals.sandiegozoo.org/animals/chameleon"
+      }
+    },
+    {
+      "pageid": 30984415,
+      "name": "Emerald tree boa",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Corallus_caninus_-_Vivarium_de_Meyrin_01.JPG",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Corallus_caninus_-_Vivarium_de_Meyrin_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Corallus_caninus_-_Vivarium_de_Meyrin_01.JPG/1920px-Corallus_caninus_-_Vivarium_de_Meyrin_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Eveha",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "camera_metadata": {
+        "Make": "SONY",
+        "Model": "DSC-HX200V",
+        "Orientation": 1,
+        "XResolution": "350/1",
+        "YResolution": "350/1",
+        "ResolutionUnit": 2,
+        "Software": "DSC-HX200V v1.00",
+        "DateTime": "2014:01:26 16:17:35",
+        "YCbCrPositioning": 2,
+        "ExposureTime": "1/10",
+        "FNumber": "45/10",
+        "ExposureProgram": 2,
+        "ISOSpeedRatings": 800,
+        "ExifVersion": "0230",
+        "DateTimeOriginal": "2014:01:26 16:17:35",
+        "DateTimeDigitized": "2014:01:26 16:17:35",
+        "ComponentsConfiguration": "\n#1\n#2\n#3\n#0",
+        "CompressedBitsPerPixel": "3/1",
+        "BrightnessValue": "-1666/2560",
+        "ExposureBiasValue": "0/10",
+        "MaxApertureValue": "1110/256",
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": "1916/100",
+        "FlashPixVersion": "0100",
+        "ColorSpace": 1,
+        "FileSource": 3,
+        "SceneType": 1,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": "16/16",
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "MEDIAWIKI_EXIF_VERSION": 1
+      },
+      "source_file_history": [
+        {
+          "timestamp": "2014-02-04T18:03:52Z",
+          "size": 6180498,
+          "width": 4896,
+          "height": 3672,
+          "comment": "User created page with UploadWizard",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Corallus_caninus_-_Vivarium_de_Meyrin_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Corallus_caninus_-_Vivarium_de_Meyrin_01.JPG",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30984415"
+        }
+      ],
+      "source_file_sha256": "57fdd4718cdb5d8e3e03720e3d17f396f87c96b37f45f840469c05ad44a3021d",
+      "sentence": "Emerald tree boas grip trees with their prehensile tails.",
+      "fact_source": {
+        "title": "Toronto Zoo: Emerald tree boa",
+        "url": "https://www.torontozoo.com/animals/Emerald%20tree%20boa"
+      }
+    },
+    {
+      "pageid": 109696402,
+      "name": "Komodo dragon",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Varanus_komodoensis_26380159.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Varanus_komodoensis_26380159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Varanus_komodoensis_26380159.jpg/1920px-Varanus_komodoensis_26380159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Valentin Moser",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "camera_metadata": {
+        "MEDIAWIKI_EXIF_VERSION": 1
+      },
+      "source_file_history": [
+        {
+          "timestamp": "2021-09-05T00:53:32Z",
+          "size": 1272074,
+          "width": 2048,
+          "height": 1536,
+          "comment": "{{Information\n|description={{en|Komodo Dragon (''Varanus komodoensis'')}}\n|date=2016-01-06\n|source=https://www.inaturalist.org/photos/26380159\n|author=[https://www.inaturalist.org/users/693281 Valentin Moser]\n|permission=\n|other versions=\n}}\n{{Location|-8.7019603435|119.6326989846}}\n{{iNaturalist|17369595}}\n{{iNaturalistreview}}\n\n[[Category:Varanus komodoensis]]\n[[Category:Uploaded with iNaturalist2Commons]]",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Varanus_komodoensis_26380159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Varanus_komodoensis_26380159.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=109696402"
+        }
+      ],
+      "source_file_sha256": "db4564f2f2a0d60cf55ac2da4c61ce191cc3d2d11f406549dc623cd5677e7a94",
+      "sentence": "Komodo dragons use forked tongues to track scents.",
+      "fact_source": {
+        "title": "Smithsonian: Komodo dragon",
+        "url": "https://nationalzoo.si.edu/animals/komodo-dragon"
+      }
+    },
+    {
+      "pageid": 17039903,
+      "name": "Alligator snapping turtle",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Alligator_snapping_turtle_-_Geierschildkr%C3%B6te_-_Alligatorschildkr%C3%B6te_-_Macrochelys_temminckii_02.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Alligator_snapping_turtle_-_Geierschildkr%C3%B6te_-_Alligatorschildkr%C3%B6te_-_Macrochelys_temminckii_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Alligator_snapping_turtle_-_Geierschildkr%C3%B6te_-_Alligatorschildkr%C3%B6te_-_Macrochelys_temminckii_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Norbert Nagel, Mörfelden-Walldorf, Germany",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "camera_metadata": {
+        "Make": "Panasonic",
+        "Model": "DMC-FZ100",
+        "XResolution": "240/1",
+        "YResolution": "240/1",
+        "ResolutionUnit": 2,
+        "Software": "Ver.1.2",
+        "DateTime": "2011:10:19 19:54:13",
+        "ExposureTime": "1/200",
+        "FNumber": "4/1",
+        "ExposureProgram": 2,
+        "ISOSpeedRatings": 100,
+        "ExifVersion": "0230",
+        "DateTimeOriginal": "2011:07:19 12:05:10",
+        "DateTimeDigitized": "2011:07:19 12:05:10",
+        "ShutterSpeedValue": "7643856/1000000",
+        "ApertureValue": "4/1",
+        "ExposureBiasValue": "0/100",
+        "MaxApertureValue": "30/10",
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": "204/10",
+        "SensingMethod": 2,
+        "FileSource": 3,
+        "SceneType": 1,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": "0/10",
+        "FocalLengthIn35mmFilm": 113,
+        "SceneCaptureType": 0,
+        "GainControl": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "ImageWidth": "1155",
+        "ImageLength": "866",
+        "PixelXDimension": "1155",
+        "PixelYDimension": "866",
+        "Rating": "1",
+        "MEDIAWIKI_EXIF_VERSION": 1
+      },
+      "source_file_history": [
+        {
+          "timestamp": "2011-10-19T17:58:31Z",
+          "size": 825017,
+          "width": 1155,
+          "height": 866,
+          "comment": "{{Information\n|Description={{en|1=Alligator snapping turtle (Macrochelys temminckii) in the Oasis Park, La Lajita, Pájara, Fuerteventura, Canary Islands, Spain}}\n{{de|1=Geierschildkröte oder Alligatorschildkröte im Oasis Park, Fuerteventura, Kanarische",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Alligator_snapping_turtle_-_Geierschildkr%C3%B6te_-_Alligatorschildkr%C3%B6te_-_Macrochelys_temminckii_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alligator_snapping_turtle_-_Geierschildkr%C3%B6te_-_Alligatorschildkr%C3%B6te_-_Macrochelys_temminckii_02.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17039903"
+        }
+      ],
+      "source_file_sha256": "59d1f99f97756b3ae0973a14361de1a7a0565324f5de9d438e82c00a2bdad961",
+      "sentence": "Alligator snapping turtles lure fish with a worm-like tongue.",
+      "fact_source": {
+        "title": "Smithsonian: Alligator snapping turtle",
+        "url": "https://nationalzoo.si.edu/animals/alligator-snapping-turtle"
+      }
+    },
+    {
+      "pageid": 22512011,
+      "name": "Burmese python",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Burmese_Python_04.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Burmese_Python_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Burmese_Python_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "SuperJew",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "camera_metadata": {
+        "Make": "FUJIFILM",
+        "Model": "FinePix S5000 ",
+        "Orientation": 1,
+        "XResolution": "72/1",
+        "YResolution": "72/1",
+        "ResolutionUnit": 2,
+        "Software": "Digital Camera FinePix S5000 Ver3.00",
+        "DateTime": "2006:07:12 14:25:28",
+        "YCbCrPositioning": 2,
+        "ExposureTime": "10/1250",
+        "FNumber": "320/100",
+        "ExposureProgram": 2,
+        "ISOSpeedRatings": 200,
+        "ExifVersion": "0220",
+        "DateTimeOriginal": "2006:07:12 14:25:28",
+        "DateTimeDigitized": "2006:07:12 14:25:28",
+        "ComponentsConfiguration": "\n#1\n#2\n#3\n#0",
+        "CompressedBitsPerPixel": "26/10",
+        "ShutterSpeedValue": "700/100",
+        "ApertureValue": "340/100",
+        "BrightnessValue": "443/100",
+        "ExposureBiasValue": "0/100",
+        "MaxApertureValue": "300/100",
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": "1360/100",
+        "FlashPixVersion": "0100",
+        "ColorSpace": 1,
+        "FocalPlaneXResolution": "3007/1",
+        "FocalPlaneYResolution": "3007/1",
+        "FocalPlaneResolutionUnit": 3,
+        "SensingMethod": 2,
+        "FileSource": 3,
+        "SceneType": 1,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "SceneCaptureType": 0,
+        "Sharpness": 0,
+        "SubjectDistanceRange": 0,
+        "MEDIAWIKI_EXIF_VERSION": 1
+      },
+      "source_file_history": [
+        {
+          "timestamp": "2012-11-02T11:43:24Z",
+          "size": 628325,
+          "width": 1600,
+          "height": 1200,
+          "comment": "User created page with UploadWizard",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Burmese_Python_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Burmese_Python_04.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22512011"
+        }
+      ],
+      "source_file_sha256": "b476860283be01b2756b6d00271fc0754e6d05b8491fbf392004566b064489d1",
+      "sentence": "Burmese pythons' lip pits pick up prey's body heat.",
+      "fact_source": {
+        "title": "San Diego Zoo: Python",
+        "url": "https://animals.sandiegozoo.org/animals/python"
+      }
+    },
+    {
+      "pageid": 188040646,
+      "name": "Saltwater crocodile",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Saltwater_crocodile_(Crocodylus_porosus)_in_the_Brunei_River,_April_2025_01.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saltwater_crocodile_%28Crocodylus_porosus%29_in_the_Brunei_River%2C_April_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Saltwater_crocodile_%28Crocodylus_porosus%29_in_the_Brunei_River%2C_April_2025_01.jpg/1920px-Saltwater_crocodile_%28Crocodylus_porosus%29_in_the_Brunei_River%2C_April_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Calistemon",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "camera_metadata": {
+        "Make": "Canon",
+        "Model": "Canon PowerShot SX60 HS",
+        "ISOSpeedRatings": 400,
+        "DateTimeOriginal": "2025:04:09 14:05:11",
+        "DateTimeDigitized": "2025:04:09 14:05:11",
+        "MeteringMode": 5,
+        "Flash": 16,
+        "SubSecTimeOriginal": "00",
+        "SubSecTimeDigitized": "00",
+        "WhiteBalance": 0,
+        "MEDIAWIKI_EXIF_VERSION": 1
+      },
+      "source_file_history": [
+        {
+          "timestamp": "2026-04-05T03:21:15Z",
+          "size": 2956941,
+          "width": 4357,
+          "height": 3268,
+          "comment": "Uploaded own work with UploadWizard",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saltwater_crocodile_%28Crocodylus_porosus%29_in_the_Brunei_River%2C_April_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saltwater_crocodile_(Crocodylus_porosus)_in_the_Brunei_River,_April_2025_01.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188040646"
+        }
+      ],
+      "source_file_sha256": "7208eeadbc88bb83907923de8a2e7b4b475bcc643eea906377f2eef16df8bd1f",
+      "sentence": "Saltwater crocodiles replace teeth throughout their lives.",
+      "fact_source": {
+        "title": "San Diego Zoo: Crocodilian",
+        "url": "https://animals.sandiegozoo.org/animals/crocodilian"
+      }
+    }
+  ],
+  "render_reports": [
+    {
+      "file": "slide-01.jpg",
+      "size": [
+        1080,
+        1350
+      ],
+      "photo_bounds": [
+        0,
+        270,
+        1080,
+        1080
+      ],
+      "overlay": {
+        "box_bounds": [
+          219,
+          440,
+          861,
+          538
+        ],
+        "glyph_bounds": [
+          235,
+          462,
+          845,
+          516
+        ],
+        "font_pixels": 59,
+        "text": "Reptile survival tricks"
+      },
+      "kind": "hook",
+      "source_pageid": 8686833,
+      "sha256": "68b68c0e7b26ce472c3ec3569e350d30f109c524511d8a2bae22269fc9a5ed7f"
+    },
+    {
+      "file": "slide-02.jpg",
+      "size": [
+        1080,
+        1350
+      ],
+      "photo_bounds": [
+        0,
+        270,
+        1080,
+        1080
+      ],
+      "overlay": {
+        "text_bounds": [
+          150,
+          341,
+          823,
+          451
+        ],
+        "lines": [
+          "Emerald tree boas grip trees",
+          "with their prehensile tails."
+        ],
+        "font_pixels": 50,
+        "contrast_pass_share": 0.9997,
+        "median_contrast_ratio": 14.25,
+        "vertical_center_fraction": 0.155,
+        "horizontal_center_fraction": 0.45,
+        "no_frame": true,
+        "no_outline": true
+      },
+      "kind": "explanation",
+      "source_pageid": 30984415,
+      "sha256": "d36204a2181a4c4f4bfcebc1de1e6495dd66aeb2b5a6979ab9376f008a1c45ec"
+    },
+    {
+      "file": "slide-03.jpg",
+      "size": [
+        1080,
+        1350
+      ],
+      "photo_bounds": [
+        0,
+        270,
+        1080,
+        1080
+      ],
+      "overlay": {
+        "text_bounds": [
+          241,
+          924,
+          710,
+          1024
+        ],
+        "lines": [
+          "Leopard gecko tails",
+          "store fat reserves."
+        ],
+        "font_pixels": 50,
+        "contrast_pass_share": 0.9903,
+        "median_contrast_ratio": 12.69,
+        "vertical_center_fraction": 0.875,
+        "horizontal_center_fraction": 0.44,
+        "no_frame": true,
+        "no_outline": true
+      },
+      "kind": "explanation",
+      "source_pageid": 6821172,
+      "sha256": "0be8f7d0a37e479549ca4d265085655bc9997cf71d8c24fbf0621e83649e920d"
+    },
+    {
+      "file": "slide-04.jpg",
+      "size": [
+        1080,
+        1350
+      ],
+      "photo_bounds": [
+        0,
+        270,
+        1080,
+        1080
+      ],
+      "overlay": {
+        "text_bounds": [
+          126,
+          324,
+          802,
+          434
+        ],
+        "lines": [
+          "Saltwater crocodiles replace",
+          "teeth throughout their lives."
+        ],
+        "font_pixels": 50,
+        "contrast_pass_share": 0.9925,
+        "median_contrast_ratio": 7.2,
+        "vertical_center_fraction": 0.135,
+        "horizontal_center_fraction": 0.43,
+        "no_frame": true,
+        "no_outline": true
+      },
+      "kind": "explanation",
+      "source_pageid": 188040646,
+      "sha256": "71f4d1bdce01cefc219763a52e18aac9aa431692a445b31c3e6ba7b7548c9271"
+    },
+    {
+      "file": "slide-05.jpg",
+      "size": [
+        1080,
+        1350
+      ],
+      "photo_bounds": [
+        0,
+        270,
+        1080,
+        1080
+      ],
+      "overlay": {
+        "text_bounds": [
+          115,
+          794,
+          812,
+          904
+        ],
+        "lines": [
+          "Veiled chameleons can move",
+          "each eye separately."
+        ],
+        "font_pixels": 50,
+        "contrast_pass_share": 0.9919,
+        "median_contrast_ratio": 20.46,
+        "vertical_center_fraction": 0.715,
+        "horizontal_center_fraction": 0.43,
+        "no_frame": true,
+        "no_outline": true
+      },
+      "kind": "explanation",
+      "source_pageid": 8686833,
+      "sha256": "0d07fe5bbfa302f2f7e575b84542da84980fdcf3c1807a8aa1180df8da0e8694"
+    },
+    {
+      "file": "slide-06.jpg",
+      "size": [
+        1080,
+        1350
+      ],
+      "photo_bounds": [
+        0,
+        270,
+        1080,
+        1080
+      ],
+      "overlay": {
+        "text_bounds": [
+          106,
+          608,
+          821,
+          718
+        ],
+        "lines": [
+          "Alligator snapping turtles lure",
+          "fish with a worm-like tongue."
+        ],
+        "font_pixels": 50,
+        "contrast_pass_share": 0.9915,
+        "median_contrast_ratio": 14.68,
+        "vertical_center_fraction": 0.485,
+        "horizontal_center_fraction": 0.43,
+        "no_frame": true,
+        "no_outline": true
+      },
+      "kind": "explanation",
+      "source_pageid": 17039903,
+      "sha256": "12f446eecb1f1ffde5e9458ef682ef91e7aa99f59ba10940df250eb7a231cf71"
+    },
+    {
+      "file": "slide-07.jpg",
+      "size": [
+        1080,
+        1350
+      ],
+      "photo_bounds": [
+        0,
+        270,
+        1080,
+        1080
+      ],
+      "overlay": {
+        "text_bounds": [
+          157,
+          721,
+          837,
+          831
+        ],
+        "lines": [
+          "Komodo dragons use forked",
+          "tongues to track scents."
+        ],
+        "font_pixels": 50,
+        "contrast_pass_share": 0.9904,
+        "median_contrast_ratio": 7.01,
+        "vertical_center_fraction": 0.625,
+        "horizontal_center_fraction": 0.46,
+        "no_frame": true,
+        "no_outline": true
+      },
+      "kind": "explanation",
+      "source_pageid": 109696402,
+      "sha256": "2b49cc38d953b7f0170c07f9b78853972b3506723b1956c3646cd713c5fbad5e"
+    },
+    {
+      "file": "slide-08.jpg",
+      "size": [
+        1080,
+        1350
+      ],
+      "photo_bounds": [
+        0,
+        270,
+        1080,
+        1080
+      ],
+      "overlay": {
+        "text_bounds": [
+          150,
+          899,
+          759,
+          1009
+        ],
+        "lines": [
+          "Burmese pythons' lip pits",
+          "pick up prey's body heat."
+        ],
+        "font_pixels": 50,
+        "contrast_pass_share": 0.992,
+        "median_contrast_ratio": 17.02,
+        "vertical_center_fraction": 0.845,
+        "horizontal_center_fraction": 0.42,
+        "no_frame": true,
+        "no_outline": true
+      },
+      "kind": "explanation",
+      "source_pageid": 22512011,
+      "sha256": "8715e73f1acd728e2579da58d978e6059f0e0951a26931794a8264e31e5c5343"
+    }
+  ],
+  "safe_bounds": [
+    96,
+    150,
+    864,
+    1040
+  ],
+  "fact_font": "Arial Bold 50 px on all slides 2–8",
+  "cover_repeat_slide": 5,
+  "crop_performed": false,
+  "source_content_edits_performed": false,
+  "posted": false
+}
